@@ -1,1 +1,1 @@
-About.txt
+Formulario de creacion de una presentacion segun al metodologia canvas, usando angular.js
